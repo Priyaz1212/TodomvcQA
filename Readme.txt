@@ -1,15 +1,15 @@
-1. To view Test Cases open Test Cases > Test conditions.xlsx
+1. To view Test Cases download Test Cases > Test conditions.xlsx (https://github.com/Priyaz1212/TodomvcQA/tree/main/Test%20Cases)
 
-2. To view full test report Open Report > Index.html
+2. To view full test report open Report > Index.html , click on "Raw" and save as html on your pc (https://github.com/Priyaz1212/TodomvcQA/tree/main/Report)
 
-3. To view test execution recording open Recording > Automate todomvc.mp4
+3. To view test execution recording download Recording > Automate todomvc.mp4 (https://github.com/Priyaz1212/TodomvcQA/tree/main/Recording)
 -----------------------------------------------------------------------------------
 
 Steps for Execution:
 
 1.Install Microsoft Visual Studio Community latest version
  
-2.Download todomvc Solution from GitHub
+2.Download todomvc Solution from GitHub (https://github.com/Priyaz1212/TodomvcQA/tree/main/todomvc)
 
 3.Open the todomvc solution in Visual studio
 
